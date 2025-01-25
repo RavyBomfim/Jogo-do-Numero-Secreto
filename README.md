@@ -1,4 +1,4 @@
-# Jogo-do-Numero-Secreto
+# Jogo do Numero Secreto
 
 ### Joguinho feito durante o Programa Oracle Next Education.
 
